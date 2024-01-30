@@ -1,0 +1,12 @@
+.container{
+    max-width: 1180px;
+    width: 100%;
+   
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.countryflag{
+   object-fit: cover;
+   height: 120px;
+}
